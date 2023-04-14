@@ -1,4 +1,4 @@
-# Hackathon
+# RAMADAN-Hackathon
 
 
 ### Project name is : Hilal .
@@ -18,4 +18,4 @@
 
 ### The live code :
 
-* [live code](https://razan-aboushi.github.io/HilalProject/) .
+* [live code](https://ali-alterawi.github.io/HILAL/) .
