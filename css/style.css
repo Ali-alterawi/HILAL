@@ -1231,6 +1231,8 @@ margin-bottom: 25px;
   .donation .plans .plan {
     background-color: #fcfcfc;
     text-align: center;
+    border-radius: 20px;
+    border: 1px solid #ccc;
   }
   .donation .plans .plan .head {
     padding: 40px 20px;
@@ -1264,6 +1266,10 @@ margin-bottom: 25px;
     color: #fff;
     border-radius: 5px;
     background-color: #10243b;
+    transition: 0.7s ease;
+  }
+  .donation .plans .plan .foot a:hover{
+    transform: scale(1.1);
   }
   .donation .contact-text {
     text-align: center;
